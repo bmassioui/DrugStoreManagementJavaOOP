@@ -7,3 +7,8 @@ Java console application, to realize a school exercise:
 * Purchasing management
 * Control Medicine available quantity
 
+
+## Result
+Please take a look at the screenshot:
+> Output> output.png
+
